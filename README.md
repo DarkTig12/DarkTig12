@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Открыт_к_предложениям-Middle_Frontend-22c55e?style=for-the-badge" alt="Открыт к предложениям" />
 </p>
 
-<p><b>🇷🇺 Русский</b> · <a href="https://github.com/DarkTig12/DarkTig12/blob/main/README.en.md">🇬🇧 English</a></p>
+<p><b>Русский</b> · <a href="https://github.com/DarkTig12/DarkTig12/blob/main/README.en.md">English</a></p>
 
 </div>
 
@@ -97,7 +97,7 @@ Frontend-разработчик с **4 годами коммерческого �
 ## 🎓 Образование
 
 **МГТУ им. Н. Э. Баумана** · 2022 · Информационные технологии и сети<br />
-🇬🇧 Английский — B2 (Upper-Intermediate)
+Английский — B2 (Upper-Intermediate)
 
 ---
 

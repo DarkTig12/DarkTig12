@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Open_to_offers-Middle_Frontend-22c55e?style=for-the-badge" alt="Open to offers" />
 </p>
 
-<p><a href="https://github.com/DarkTig12">🇷🇺 Русский</a> · <b>🇬🇧 English</b></p>
+<p><a href="https://github.com/DarkTig12">Русский</a> · <b>English</b></p>
 
 </div>
 
@@ -97,7 +97,7 @@ Self-service kiosk application built with **React + Electron**: meter reading su
 ## 🎓 Education
 
 **Bauman Moscow State Technical University** · 2022 · Information Technology and Networks<br />
-🇬🇧 English — B2 (Upper-Intermediate)
+English — B2 (Upper-Intermediate)
 
 ---
 
