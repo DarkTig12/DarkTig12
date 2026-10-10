@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=180&section=header&text=Тигран%20Оганесян&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Middle%20Frontend%20Developer%20·%20React%20/%20TypeScript&descSize=18&descAlignY=58" width="100%" alt="Тигран Оганесян — Middle Frontend Developer" />
 
-<a href="https://github.com/DarkTig12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=4+%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8;React+%2B+Electron+%D0%B4%D0%BB%D1%8F+6%2B+%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D1%85+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9;%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0+%C2%B7+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B+%C2%B7+%D1%82%D0%B5%D1%81%D1%82%D1%8B" alt="Typing SVG" />
-</a>
-
 <p>
   <img src="https://img.shields.io/badge/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%BE%D1%84%D0%B8%D1%81%20%7C%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%20%7C%20%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D0%BE-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Москва" />
   <img src="https://img.shields.io/badge/Открыт_к_предложениям-Middle_Frontend-22c55e?style=for-the-badge" alt="Открыт к предложениям" />
